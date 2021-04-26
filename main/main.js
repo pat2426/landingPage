@@ -1,3 +1,4 @@
+/*need to continue to work on this*/
 function mobileMenu() {
   var node = document.getElementById("nav-middle-links");
   document.getElementById("menu-display").appendChild(node);
