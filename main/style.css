@@ -2,7 +2,7 @@
 
 html{
     font-family: 'Roboto', sans-serif;
-    color: white;
+    color: whitesmoke;
 }
 
 .full-page{
@@ -35,7 +35,7 @@ nav a{
     display: inline-block;
     padding: 0.5em;
     text-decoration: none;
-    color: white;
+    color: whitesmoke;
 }
 
 a:hover{
@@ -130,7 +130,7 @@ a:hover{
 .submit{
     text-align: center;
     background-color: rgb(80, 123, 241);
-    color: white;
+    color: whitesmoke;
     width: 100%;
     border: none;
     font-size: 1rem;
@@ -149,11 +149,11 @@ a:hover{
 
 .footer-nav ul a{
     text-decoration: none;
-    color: white;
+    color: whitesmoke;
     font-size: 12px;
     font-weight: 200;
     padding: 2.5em 2.5em;
-    font-weight: 400;
+    font-weight: bold;
 }
 
 .agree{
@@ -162,7 +162,7 @@ a:hover{
 }
 
 .tos{
-    color:white;
+    color:whitesmoke;
     display: inline-block;
 }
 
