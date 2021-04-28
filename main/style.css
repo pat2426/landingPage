@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
-html{
+html,body{
     font-family: 'Roboto', sans-serif;
     color: whitesmoke;
+    margin: 0;
+    padding: 0;
 }
 
 .full-page{
@@ -13,7 +15,7 @@ html{
     content: "";
     background-image: url("backgroundImage.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
     background-color: #ccc;
     background-blend-mode: darken, hard-light;
     top: 0;
