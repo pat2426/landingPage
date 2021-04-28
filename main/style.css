@@ -140,6 +140,9 @@ nav a:hover{
     height: 3rem;
 }
 
+.footer-text{
+    margin-left:10px;
+}
 
 .footer-nav{
     display: flex;
@@ -202,7 +205,6 @@ nav a:hover{
     }
 
     .input-container input{ 
-        width: 15rem;
         margin:0 auto;
       }
 
@@ -211,12 +213,13 @@ nav a:hover{
     }
 
     .footer-text{
-       margin-left: 10px;
+       text-align: center;
     }
 
     .footer-nav{
         display: flex;
         flex-direction: column;
+        text-align: center;
     }
 
     .footer-nav ul a{
