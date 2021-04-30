@@ -192,8 +192,10 @@ nav a:hover{
 
     .full-page{
         position: relative;
+        margin:0;
+        padding: 0;
     }
-    
+
     .container{
         flex-direction: column;
     }
