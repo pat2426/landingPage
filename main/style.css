@@ -3,12 +3,6 @@
 html,body{
     font-family: 'Roboto', sans-serif;
     color: whitesmoke;
-    margin: 0;
-    padding: 0;
-}
-
-.full-page{
-    position: relative;
 }
 
 .full-page::before{
@@ -195,6 +189,11 @@ nav a:hover{
   }
 
 @media only screen and (max-width: 600px) {
+
+    .full-page{
+        position: relative;
+    }
+    
     .container{
         flex-direction: column;
     }
