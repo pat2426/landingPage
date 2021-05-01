@@ -135,7 +135,7 @@ nav a:hover{
 }
 
 .footer-text{
-    margin-left:10px;
+    margin-left:15px;
 }
 
 .footer-nav{
@@ -164,6 +164,7 @@ nav a:hover{
 .agree{
     color: grey;
     font-size: 10px;
+    text-align: center;
 }
 
 .tos{
