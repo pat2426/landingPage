@@ -207,8 +207,12 @@ nav a:hover{
         margin:0 auto;
     }
 
+    .sign-up-form{
+        padding: 0;
+    }
+
     .input-container input{ 
-        width: 15rem;
+        width: 20rem;
         margin:0 auto;
       }
 
