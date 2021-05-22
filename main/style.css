@@ -199,7 +199,7 @@ nav a:hover{
     .container{
         flex-direction: column;
     }
-    
+
     .text-title{
         font-size: 20px;
         font-weight: bold;
@@ -234,5 +234,9 @@ nav a:hover{
         font-weight: 200;
         display: flex;
         flex-direction: column;
+    }
+
+    .footer-nav ul a:hover{
+        background-color:rgba(155, 147, 147, 0.5);
     }
   }
