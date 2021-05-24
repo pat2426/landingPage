@@ -194,11 +194,6 @@ nav a:hover{
     margin-right: 20px;
     }
 
-    .full-page{
-        position: relative;
-        margin:0;
-        padding: 0;
-    }
 
     .container{
         flex-direction: column;
@@ -240,7 +235,4 @@ nav a:hover{
         flex-direction: column;
     }
 
-    .footer-nav ul a:hover{
-        background-color:rgba(155, 147, 147, 0.5);
-    }
   }
