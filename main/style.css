@@ -190,6 +190,10 @@ nav a:hover{
 
 @media only screen and (max-width: 600px) {
 
+    .main-logo{
+    margin-right: 20px;
+    }
+
     .full-page{
         position: relative;
         margin:0;
