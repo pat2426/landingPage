@@ -194,6 +194,12 @@ nav a:hover{
     margin-right: 20px;
     }
 
+    html{
+        position: relative;
+        margin:0;
+        padding: 0;
+        height: 100%;
+    }
 
     .container{
         flex-direction: column;
