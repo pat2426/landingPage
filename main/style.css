@@ -217,8 +217,9 @@ nav a:hover{
     }
 
     .sign-up-form{
-        padding:0;
-        margin:0 auto;
+        padding-right: 5em;
+        margin-left: 6px;
+        margin-right: 6px;
     }
 
     .input-container input{ 
