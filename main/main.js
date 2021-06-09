@@ -14,4 +14,4 @@ function toggle() {
     x.style.display = "block";
   }
 }
-document.getElementById("nav-middle-links").addEventListener("click", mobileMenu);
+document.getElementById("menu-display").addEventListener("click", mobileMenu);
