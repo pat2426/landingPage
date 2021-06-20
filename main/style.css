@@ -118,12 +118,12 @@ nav a:hover{
   .sign-up-text{
       text-align: center;
       font-size: 12px;
-  }
+    }
 
 .form{
     position: relative;
     display: inline-block;
-}
+    }
 
 .submit{
     text-align: center;
@@ -188,7 +188,7 @@ nav a:hover{
     .sidenav {background-color: rgb(52,26,35,.5); }
     
     .main-logo{
-    margin-right: 20px;
+    margin-right: 18px;
     }
 
     .full-page{
