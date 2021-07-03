@@ -12,7 +12,7 @@ function toggle() {
     x.style.display = "none";
   }
   else {
-    x.style.display = "float:right";
+    x.style.display = "none";
   }
 }
 document.getElementById("menu-display").addEventListener("click", mobileMenu);
