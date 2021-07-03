@@ -12,7 +12,7 @@ function toggle() {
     x.style.display = "none";
   }
   else {
-    x.style.display = "none";
+    x.style.display = "block";
   }
 }
 document.getElementById("menu-display").addEventListener("click", mobileMenu);
