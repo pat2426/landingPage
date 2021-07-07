@@ -38,7 +38,6 @@ nav a:hover{
     background-color:rgba(155, 147, 147, 0.5);
 }
 
-
 .nav-middle-links{
     margin: 0 auto;
     font-size: 14px;
@@ -49,7 +48,7 @@ nav a:hover{
 .main-logo{
     float: left;
     font-size: 30px;
-    font-weight: 700;
+    font-weight: bold;
 }
 
 .icon{
