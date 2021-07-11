@@ -1,4 +1,4 @@
-/*need to update js file*/
+
 function mobileMenu() {
   var node = document.getElementById("middle_menu");
   document.getElementById("menu-display").appendChild(node);
