@@ -78,7 +78,7 @@ nav a:hover{
 	position:absolute;
 	top:0px;
 	left:0px;
-	font-size: 1.8rem;
+	font-size: 1.4rem;
 	color:#fff;	
     pointer-events: none;
 	transition: all 0.5s ease-in-out;
@@ -116,7 +116,7 @@ nav a:hover{
 
   .sign-up-text{
       text-align: center;
-      font-size: 12px;
+      font-size: 10px;
     }
 
 .form{
