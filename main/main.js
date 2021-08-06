@@ -9,7 +9,7 @@ function mobileMenu() {
 function toggle() {
   var x = document.getElementById("menu-display");
   if (x.style.display = "block") {
-    x.style.display = "none";
+    x.style.display = "";
   }
   else {
     x.style.display = "block";
