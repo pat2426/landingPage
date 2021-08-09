@@ -180,6 +180,8 @@ nav a:hover{
 }
 
 
+
+
 /*Media-queries for different screen sizes*/
 
 @media only screen and (max-width: 600px) {
@@ -190,6 +192,10 @@ nav a:hover{
     .main-logo{
     margin-right: 20px;
     font-weight: bolder;
+    }
+    
+    .menu-display{
+        align-content: right;
     }
 
     .full-page{
