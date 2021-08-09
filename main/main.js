@@ -11,7 +11,7 @@ function toggle() {
     x.style.display = "none";
   }
   else {
-    x.style.display = "block";
+    x.style.display = "inline-block";
   }
 }
 document.getElementById("menu-display").addEventListener("click", mobileMenu);
