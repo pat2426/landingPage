@@ -139,13 +139,14 @@ nav a:hover{
 .footer-text{
     margin-left:14px;
     margin-top: 2em;
+    color: black;
 }
 
 .footer-nav{
     display: flex;
     justify-content: space-between;
     background-color: rgb(212, 212, 211,0.8);
-    height: 4.2em;
+    height: 4.5em;
     font-weight: bold;
 }
 
@@ -234,7 +235,6 @@ text-align: center;
     .text-title{
         font-size: 20px;
         font-weight: bold;
-        margin:0 auto;
     }
 
     .sign-up-form{
