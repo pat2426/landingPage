@@ -14,4 +14,4 @@ function toggle() {
     x.style.display = "inline-block";
   }
 }
-document.getElementById("menu-display").addEventListener("click", mobileMenu);
+document.getElementById("menu-display").addEventListener("click", mobileMenu());
