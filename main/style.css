@@ -137,16 +137,16 @@ nav a:hover{
 }
 
 .footer-text{
-    margin-left:14px;
-    margin-top: 2.5em;
+    margin-top: 1em;
     color: black;
+    text-align: center;
 }
 
 .footer-nav{
     display: flex;
     justify-content: space-between;
     background-color: rgb(212, 212, 211,0.8);
-    height: 4.5em;
+    height: 100%;
     font-weight: bold;
 }
 
