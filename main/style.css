@@ -11,7 +11,7 @@ html,body{
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #ccc;
-    background-blend-mode: darken, luminosity;
+    background-blend-mode: darken, overlay;
     top: 0;
     left: 0;
     bottom: 0;
