@@ -17,7 +17,7 @@ html,body{
     bottom: 0;
     right: 0;
     position: absolute;
-    opacity: 0.75; 
+    opacity: 0.70; 
     z-index: -1;
     height: 100%;
 }
