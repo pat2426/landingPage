@@ -88,7 +88,7 @@ nav a:hover{
 .input-container input{ 
     background:transparent;
     color:#fff;
-    border: 1.6px solid rgb(133, 121, 121);
+    border: 2px solid rgb(133, 121, 121);
     border-radius: 4px;
     box-sizing: border-box;
     height: 4rem;
