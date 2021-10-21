@@ -190,7 +190,10 @@ text-align: center;
 }
 
 /*About Us page*/
-
+.about-us-header{
+    text-align: center;
+    color: black;
+}
 
 /*Media-queries for different screen sizes*/
 
