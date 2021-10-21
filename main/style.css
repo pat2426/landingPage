@@ -190,7 +190,8 @@ text-align: center;
 }
 
 /*About Us page*/
-.about-us-header{
+
+.about-us-container{
     text-align: center;
     color: black;
 }
