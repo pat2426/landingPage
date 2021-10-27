@@ -194,8 +194,13 @@ text-align: center;
 .about-us-container{
     text-align: center;
     color: black;
+    font-size: 18px;
 }
 
+.about-us-header{
+    text-decoration: underline;
+    color: whitesmoke;
+}
 /*Media-queries for different screen sizes*/
 
 @media only screen and (max-width: 600px) {
