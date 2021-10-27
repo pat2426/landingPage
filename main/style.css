@@ -202,6 +202,14 @@ text-align: center;
     text-decoration: underline;
     color: whitesmoke;
 }
+
+img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    align-content: center;
+}
 /*Media-queries for different screen sizes*/
 
 @media only screen and (max-width: 600px) {
