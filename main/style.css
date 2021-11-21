@@ -117,7 +117,7 @@ nav a:hover{
 
   .sign-up-text{
       text-align: center;
-      font-size: 12px;
+      font-size: 14px;
       font-weight: bold;
     }
 
@@ -268,7 +268,7 @@ img{
     }
 
     .sign-up-form{
-        padding: 1;
+        padding: 0.5em;
     }
 
     .input-container input{ 
