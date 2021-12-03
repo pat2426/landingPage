@@ -1,17 +1,17 @@
 function mobileMenu() {
-  var node = document.getElementById("middle_menu");
-  document.getElementById("menu-display").appendChild(node);
-  toggle();
+    var node = document.getElementById("middle_menu");
+    document.getElementById("menu-display").appendChild(node);
+    toggle();
 }
 
 /*Toggle function*/
+// no working toggle function
 function toggle() {
-  var x = document.getElementById("menu-display");
-  if (x.style.display = "inline-block") {
-    x.style.display = "none";
-  }
-  else {
-    x.style.display = "inline-block";
-  }
+    var x = document.getElementById("menu-display");
+    if (x.style.display = "inline-block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "inline-block";
+    }
 }
 document.getElementById("menu-display").addEventListener("click", mobileMenu);
