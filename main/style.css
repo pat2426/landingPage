@@ -225,12 +225,12 @@ img {
     }
 
     #menu-display {
-        display: block;
+        display: inline-block;
         transition: .6s;
     }
 
     .sidenav {
-        background-color: rgb(52, 26, 35, .55);
+        background-color: rgb(52, 26, 35, .5);
     }
 
     .mobile-menu {
@@ -248,7 +248,7 @@ img {
         margin-top: 20%;
     }
 
-    .full-page::after {
+    .full-page::before {
         position: absolute;
         margin: 0;
         padding: 0;
@@ -256,7 +256,10 @@ img {
         left: 0;
         bottom: 0;
         right: 0;
+        opacity: 0.75;
+        z-index: -1;
         height: 100%;
+        width: auto;
         z-index: -1;
     }
 
@@ -286,7 +289,7 @@ img {
     }
 
     .input-container input {
-        width: 16rem;
+        width: 25rem;
     }
 
     .submit {
