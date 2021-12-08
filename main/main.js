@@ -5,13 +5,12 @@ function mobileMenu() {
 }
 
 /*Toggle function*/
-// no working toggle function
 function toggle() {
     var x = document.getElementById("menu-display");
-    if (x.style.display = "inline-block") {
+    if (x.style.display = "block") {
         x.style.display = "none";
     } else {
-        x.style.display = "inline-block";
+        x.style.display = "block";
     }
 }
 document.getElementById("menu-display").addEventListener("click", mobileMenu);
