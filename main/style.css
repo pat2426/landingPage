@@ -248,7 +248,7 @@ img {
         margin-top: 20%;
     }
 
-    .full-page::before {
+    .full-page::after {
         position: absolute;
         margin: 0;
         padding: 0;
