@@ -247,7 +247,7 @@ img {
         margin-top: 20%;
     }
 
-    .full-page::after {
+    .full-page::before {
         position: absolute;
         margin: 0;
         padding: 0;
@@ -258,7 +258,6 @@ img {
         opacity: 0.75;
         z-index: -1;
         height: 100%;
-        width: auto;
         z-index: -1;
     }
 
