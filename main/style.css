@@ -288,6 +288,10 @@ img {
         width: 25rem;
     }
 
+    .tos{
+        color: black;
+    }
+
     .submit {
         width: 100%;
     }
