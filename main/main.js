@@ -8,9 +8,9 @@ function mobileMenu() {
 function toggle() {
     var x = document.getElementById("menu-display");
     if (x.style.display = "block") {
-        x.style.display = "inline-none";
+        x.style.display = "none";
     } else {
-        x.style.display = "block";
+        x.style.display = "inline-block";
     }
 }
 document.getElementById("menu-display").addEventListener("click", mobileMenu);
