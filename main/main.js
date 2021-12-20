@@ -1,3 +1,4 @@
+//function to open the hamburger menu
 function mobileMenu() {
     var node = document.getElementById("middle_menu");
     document.getElementById("menu-display").appendChild(node);
@@ -13,4 +14,6 @@ function toggle() {
         x.style.display = "inline-block";
     }
 }
+
+//create another method here
 document.getElementById("menu-display").addEventListener("click", mobileMenu);
