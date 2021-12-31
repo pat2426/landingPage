@@ -247,6 +247,11 @@ img {
     }
 
     .full-page::before {
+        content: "";
+        background-image: url("backgroundImage.jpg");
+        background-size: cover;
+        background-color: #ccc;
+        background-blend-mode: darken, overlay;
         position: absolute;
         top: 0;
         left: 0;
