@@ -15,7 +15,4 @@ function toggle() {
     }
 }
 
-
 document.getElementById("menu-display").addEventListener("click", mobileMenu);
-
-//create another method here
