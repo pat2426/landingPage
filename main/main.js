@@ -16,3 +16,4 @@ function toggle() {
 }
 
 document.getElementById("menu-display").addEventListener("click", mobileMenu);
+//add extra code 
