@@ -11,9 +11,8 @@ function toggle() {
     if (x.style.display = "inline-block") {
         x.style.display = "none";
     } else {
-        x.style.display = "block";
+        x.style.display = "inline";
     }
 }
 
 document.getElementById("menu-display").addEventListener("click", mobileMenu);
-//add extra code 
