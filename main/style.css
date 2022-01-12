@@ -321,5 +321,42 @@ img {
         flex-direction: column;
     }
 
-    /*Need a tablett screen screen here*/
+    /*Need a tablet screen screen here*/
+}
+
+@media only screen and (max-width: 1024px) {
+    .full-page::before {
+        content: "";
+        background-image: url("backgroundImage.jpg");
+        background-size: cover;
+        background-color: #ccc;
+        background-blend-mode: darken, overlay;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        opacity: 0.70;
+        z-index: -1;
+        height: 100%;
+        z-index: -1;
+    }
+
+    .footer-text {
+        text-align: center;
+    }
+
+    .footer-nav {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        width: 100%;
+    }
+
+    .footer-nav ul a {
+        font-size: 16px;
+        font-weight: bold;
+        display: flex;
+        flex-direction: column;
+    }
 }
