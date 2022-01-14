@@ -342,6 +342,14 @@ img {
         z-index: -1;
     }
 
+    .sign-up-form {
+        padding: 1.5;
+    }
+
+    .input-container input {
+        width: 28rem;
+    }
+
     .footer-text {
         text-align: center;
     }
