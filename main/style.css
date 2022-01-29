@@ -234,7 +234,7 @@ img {
     }
 
     .mobile-menu {
-        display: inline-block;
+        display: block;
     }
 
     .main-logo {
