@@ -1,4 +1,3 @@
-//function to open the hamburger menu
 function mobileMenu() {
     var node = document.getElementById("middle_menu");
     document.getElementById("menu-display").appendChild(node);
@@ -9,7 +8,7 @@ function mobileMenu() {
 function toggle() {
     var x = document.getElementById("menu-display");
     if (x.style.display = "inline-block") {
-        x.style.display = "none";
+        x.style.display = "inline";
     } else {
         x.style.display = "inline";
     }
