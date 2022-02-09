@@ -225,7 +225,6 @@ img {
 
     #menu-display {
         display: inline-block;
-        float: none;
         transition: .6s;
     }
 
