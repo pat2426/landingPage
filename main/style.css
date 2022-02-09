@@ -224,7 +224,7 @@ img {
     }
 
     #menu-display {
-        display: inline-block;
+        display: inline;
         float: none;
         transition: .6s;
     }
