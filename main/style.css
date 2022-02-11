@@ -233,7 +233,7 @@ img {
     }
 
     .mobile-menu {
-        display: block;
+        display: inline-block;
     }
 
     .main-logo {
