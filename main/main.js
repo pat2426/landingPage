@@ -7,10 +7,10 @@ function mobileMenu() {
 /*Toggle function*/
 function toggle() {
     var x = document.getElementById("menu-display");
-    if (x.style.display = "inline-block") {
-        x.style.display = "block";
-    } else {
+    if (x.style.display = "none") {
         x.style.display = "inline-block";
+    } else {
+        x.style.display = "none";
     }
 }
 
