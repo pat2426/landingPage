@@ -14,4 +14,6 @@ function toggle() {
     }
 }
 
+/*Will add another function for more animation */
+
 document.getElementById("menu-display").addEventListener("click", mobileMenu);
