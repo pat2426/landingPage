@@ -14,7 +14,7 @@ function toggle() {
     }
 }
 
-/*Will add another function for more animation */
+/*form animation */
 function newAnimation(){
     var input = document.getElementsByClassName("form");
 }
