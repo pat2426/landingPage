@@ -16,7 +16,7 @@ function toggle() {
 
 /*form animation */
 function newAnimation(){
-    var input = document.getElementsByClassName("form");
+    var links = document.getElementsByClassName("footer-links");
 }
 
 document.getElementById("menu-display").addEventListener("click", mobileMenu);
