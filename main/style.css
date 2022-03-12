@@ -375,6 +375,13 @@ img {
     }
 
     .footer-nav ul a {
+
+        background:
+        linear-gradient(
+          to bottom, var(--mainColor) 0%,
+          var(--mainColor) 100%
+        );
+        
         font-size: 20px;
         font-weight: bolder;
         display: flex;
