@@ -2,6 +2,11 @@
     background-color: cadetblue;
 }
 
+.navlists{
+    list-style: none;
+}
+
 .navbar{
-    text-decoration: none;
+    display: flex;
+    flex-direction: column;
 }
