@@ -4,9 +4,10 @@
 
 .navlists{
     list-style: none;
+
 }
 
-.navbar{
+.nav-bar{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
