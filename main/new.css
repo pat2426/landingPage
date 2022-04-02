@@ -2,9 +2,9 @@
     background-color: cadetblue;
 }
 
-.navlists{
+.navlists li{
     list-style: none;
-
+    border: 1px dashed black;
 }
 
 .nav-bar{
