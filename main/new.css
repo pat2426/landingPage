@@ -6,5 +6,5 @@
     list-style: none;
     display: flex;
     flex-direction: column;
-    display: block;
+    display: inline-block;
 }
