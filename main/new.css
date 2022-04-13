@@ -2,6 +2,10 @@
     background-color: cadetblue;
 }
 
+.navlists{
+    margin: 0 auto;
+}
+
 .navlists li{
     list-style: none;
     display: flex;
