@@ -7,4 +7,10 @@
     display: flex;
     flex-direction: column;
     display: inline-block;
+    background-color: burlywood;
+    text-align: center;
+}
+
+.navlists li:hover{
+    text-decoration: underline;
 }
