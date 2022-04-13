@@ -8,7 +8,6 @@
     flex-direction: column;
     display: inline-block;
     background-color: burlywood;
-    text-align: center;
 }
 
 .navlists li:hover{
