@@ -1,5 +1,5 @@
 .document{
-    background-color: cadetblue;
+    background-color: rgb(223, 234, 235);
 }
 
 .nav-bar{
@@ -13,6 +13,8 @@
     flex-direction: column;
     display: inline-block;
     background-color: burlywood;
+    font-size: 20px;
+    font-weight: 600;
 }
 
 .navlists li:hover{
