@@ -2,8 +2,9 @@
     background-color: cadetblue;
 }
 
-.navlists{
-    margin: 0 auto;
+.nav-bar{
+    padding: 10px 30px 30px 25%;
+    word-spacing: 4em;
 }
 
 .navlists li{
