@@ -53,4 +53,10 @@ margin-top: 30px;
         font-weight: 200;
         width: 100%;
     }
+
+    .btn{
+        background-color: chocolate;
+        color: white;
+        width: 20em;
+    }
 }
