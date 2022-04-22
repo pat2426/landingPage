@@ -15,7 +15,6 @@
     background-color: chocolate;
     font-size: 20px;
     font-weight: 600;
-    border: none;
 }
 
 li{
@@ -41,6 +40,12 @@ li{
 margin-top: 30px;
 }
 
+.btn{
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+}
 /*Media Queries*/
 
 @media only screen and (max-width: 1024px) {
@@ -61,5 +66,8 @@ margin-top: 30px;
         width: 20em;
         margin-left: 20%;
         border: none;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
     }
 }
