@@ -45,6 +45,7 @@ margin-top: 20%;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
+    background-color:chocolate;
 }
 /*Media Queries*/
 
@@ -63,7 +64,7 @@ margin-top: 20%;
     .div-text{
         margin-top: 20%;
         }
-        
+
     .btn{
         background-color: chocolate;
         color: white;
