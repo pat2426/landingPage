@@ -3,7 +3,7 @@
 }
 
 .nav-bar{
-    padding: 2% 3% 3% 20%;
+    padding: 1% 2% 2% 20%;
     word-spacing: 4em;
 }
 
@@ -54,6 +54,12 @@ margin-top: 20%;
 /*Media Queries*/
 
 @media only screen and (max-width: 1024px) {
+
+    .nav-bar{
+        padding: 1% 2% 2% 0.5%;
+        word-spacing: 4em;
+    }
+
     .navlists li{
         list-style: none;
         display: flex;
