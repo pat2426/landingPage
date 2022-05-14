@@ -51,7 +51,7 @@ text-transform: uppercase;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
-    background-color: rgb(184, 241, 243);
+    background-color: rgb(143, 232, 235);
     font-weight: 400;
 }
 
@@ -86,7 +86,7 @@ text-transform: uppercase;
         }
 
     .btn{
-        background-color: rgb(184, 241, 243);
+        background-color: rgb(143, 232, 235);
         color: white;
         width: 20em;
         margin-left: 20%;
