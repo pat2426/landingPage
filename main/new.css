@@ -59,6 +59,7 @@ text-transform: uppercase;
     text-decoration: underline;
     background-color: aqua;
 }
+
 /*Media Queries*/
 
 @media only screen and (max-width: 1024px) {
@@ -96,4 +97,7 @@ text-transform: uppercase;
         text-decoration: none;
     }
 
+    .practice_header{
+        text-align: center;
+    }
 }
