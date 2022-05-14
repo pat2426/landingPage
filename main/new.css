@@ -99,5 +99,6 @@ text-transform: uppercase;
 
     .practice_header{
         text-align: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
 }
