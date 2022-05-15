@@ -60,6 +60,11 @@ text-transform: uppercase;
     background-color: aqua;
 }
 
+.practice_header{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 /*Media Queries*/
 
 @media only screen and (max-width: 1024px) {
@@ -97,8 +102,5 @@ text-transform: uppercase;
         text-decoration: none;
     }
 
-    .practice_header{
-        text-align: center;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    }
+
 }
