@@ -66,6 +66,13 @@ text-transform: uppercase;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.footer-links{
+    background-color: rgb(163, 165, 165);
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
 /*Media Queries*/
 
 @media only screen and (max-width: 1024px) {
@@ -104,6 +111,7 @@ text-transform: uppercase;
     }
 
     .footer-links{
+        background-color: rgb(163, 165, 165);
         list-style: none;
         display: flex;
         flex-direction: column;
