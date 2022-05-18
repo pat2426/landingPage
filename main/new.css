@@ -67,12 +67,18 @@ text-transform: uppercase;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.footer-links{
-    background-color: burlywood;
-    list-style: none;
+.footer{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    background-color: burlywood;
 }
+
+.footer-links{
+    
+    list-style: none;
+    text-decoration: none;
+}
+
 
 /*Media Queries*/
 
