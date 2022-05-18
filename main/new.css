@@ -66,12 +66,6 @@ text-transform: uppercase;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.footer-links{
-    list-style: none;
-    display: flex;
-    flex-direction: column;
-}
-
 /*Media Queries*/
 
 @media only screen and (max-width: 1024px) {
@@ -107,6 +101,12 @@ text-transform: uppercase;
         padding: 15px 32px;
         text-align: center;
         text-decoration: none;
+    }
+
+    .footer-links{
+        list-style: none;
+        display: flex;
+        flex-direction: column;
     }
 
 
