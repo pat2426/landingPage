@@ -5,6 +5,7 @@
 .nav-bar{
     padding: 1% 2% 2% 20%;
     word-spacing: 4em;
+    background-color: burlywood;
 }
 
 .navlists li{
@@ -67,7 +68,7 @@ text-transform: uppercase;
 }
 
 .footer-links{
-    background-color: rgb(163, 165, 165);
+    background-color: burlywood;
     list-style: none;
     display: flex;
     flex-direction: row;
@@ -111,7 +112,7 @@ text-transform: uppercase;
     }
 
     .footer-links{
-        background-color: rgb(163, 165, 165);
+        background-color: burlywood;
         list-style: none;
         display: flex;
         flex-direction: column;
