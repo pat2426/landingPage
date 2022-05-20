@@ -73,10 +73,12 @@ text-transform: uppercase;
     background-color: burlywood;
 }
 
-.footer-links{
-    
+.footer-links > li > a{
     list-style: none;
     text-decoration: none;
+    background-color:chocolate;
+    width: auto;
+    border-radius: 4px;
 }
 
 
