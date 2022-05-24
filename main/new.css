@@ -68,18 +68,22 @@ text-transform: uppercase;
 }
 
 .footer{
-    display: flex;
-    flex-direction: column;
     background-color: burlywood;
     margin-top: 8px;
 }
 
 .footer-links > li > a{
-    list-style: none;
     text-decoration: none;
     background-color:chocolate;
     width: auto;
     border-radius: 4px;
+}
+
+.footer-links > li{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    padding: 10px 10px 10px 10px;
 }
 
 /*Media Queries*/
