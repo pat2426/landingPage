@@ -71,6 +71,7 @@ text-transform: uppercase;
     display: flex;
     flex-direction: column;
     background-color: burlywood;
+    margin-top: 8px;
 }
 
 .footer-links > li > a{
