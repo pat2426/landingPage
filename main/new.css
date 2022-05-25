@@ -78,7 +78,6 @@ text-transform: uppercase;
     width: auto;
     border-radius: 4px;
     margin-left: 10px;
-    width: 18em;
 }
 
 .footer-links > li > a:hover{
@@ -92,6 +91,7 @@ text-transform: uppercase;
     display: flex;
     flex-direction: row;
     padding: 10px 20px 10px 20px;
+    width: 30em;
 }
 
 
