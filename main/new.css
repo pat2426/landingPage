@@ -81,6 +81,12 @@ text-transform: uppercase;
     width: 18em;
 }
 
+.footer-links > li > a:hover{
+    text-decoration: underline;
+    background-color:rgb(185, 136, 101);
+}
+
+
 .footer-links > li{
     list-style: none;
     display: flex;
