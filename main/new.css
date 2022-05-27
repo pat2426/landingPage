@@ -138,4 +138,11 @@ text-transform: uppercase;
         display: flex;
         flex-direction: column;
     }
+
+    .footer-links > li{
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        width: 40em;
+    }
 }
