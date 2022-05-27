@@ -139,10 +139,18 @@ text-transform: uppercase;
         flex-direction: column;
     }
 
+    .footer-links > li > a{
+        text-decoration: none;
+        background-color:chocolate;
+        width: auto;
+        border-radius: 4px;
+        justify-content: center;
+    }
+
     .footer-links > li{
         list-style: none;
         display: flex;
         flex-direction: column;
-        width: 40em;
+        width: 100%;
     }
 }
