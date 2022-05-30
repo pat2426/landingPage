@@ -77,7 +77,6 @@ text-transform: uppercase;
     background-color:chocolate;
     width: auto;
     border-radius: 4px;
-    margin-left: 10em;
 }
 
 .footer-links > li > a:hover{
@@ -91,7 +90,8 @@ text-transform: uppercase;
     display: flex;
     flex-direction: row;
     padding: 10px 10px 10px 10px;
-    width: 40em;
+    width: 30em;
+    margin-left: 25em;
 }
 
 
