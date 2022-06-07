@@ -55,6 +55,7 @@ text-transform: uppercase;
     text-decoration: none;
     background-color: rgb(143, 232, 235);
     font-weight: 400;
+    margin-left: 18px;
 }
 
 .btn span {
