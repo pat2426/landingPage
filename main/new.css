@@ -97,6 +97,11 @@ text-transform: uppercase;
     justify-content: space-between;
 }
 
+.dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  .dropdown-content a:hover {background-color: #f1f1f1}
 
 /*Media Queries*/
 
