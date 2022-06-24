@@ -81,6 +81,7 @@ text-transform: uppercase;
     color:white;
     font-size: 16px;
     font-weight: 800;
+    padding: 10px 10px 10px 10px;
 }
 
 .footer-links > li > a:hover{
