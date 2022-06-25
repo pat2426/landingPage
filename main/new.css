@@ -94,7 +94,6 @@ text-transform: uppercase;
     list-style: none;
     display: flex;
     flex-direction: row;
-    padding: 10px 10px 10px 10px;
     width: 40em;
     margin: 0 auto;
     justify-content: space-between;
