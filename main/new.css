@@ -117,7 +117,7 @@ text-transform: uppercase;
 
   .dropdown-content a {
     color: black;
-    padding: 12px 14px;
+    padding: 12px 12px;
     text-decoration: none;
     display: block;
   }
