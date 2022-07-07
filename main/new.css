@@ -23,10 +23,7 @@ li{
     width: 6em;
     text-align: center;
 }
-.navlists li:hover{
-    text-decoration: underline;
-    background-color:rgb(185, 136, 101);
-}
+
 
 .col-md-4{
     display: flex;
@@ -137,7 +134,7 @@ text-transform: uppercase;
 }
 
 .dropdown:hover .dropbtn {
-  background-color: #3e8e41;
+    background-color:rgb(185, 136, 101);
 }
 /*Media Queries*/
 
