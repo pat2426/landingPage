@@ -19,10 +19,7 @@
     text-transform: uppercase;
 }
 
-li{
-    width: 6em;
-    text-align: center;
-}
+
 
 
 .col-md-4{
@@ -133,9 +130,7 @@ text-transform: uppercase;
   display: block;
 }
 
-.dropdown:hover .dropbtn {
-    background-color:rgb(185, 136, 101);
-}
+
 /*Media Queries*/
 
 @media only screen and (max-width: 1024px) {
