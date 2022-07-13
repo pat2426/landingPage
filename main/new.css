@@ -120,6 +120,10 @@ text-transform: uppercase;
     text-transform: uppercase;
   }
 
+  .dropbtn:hover {
+    background-color:rgb(185, 136, 101);
+  }
+
 .dropdown-content a:hover {background-color: #f1f1f1}
 
 .dropdown:hover .dropdown-content {
