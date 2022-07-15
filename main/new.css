@@ -150,8 +150,8 @@ text-transform: uppercase;
         flex-direction: column;
         display: inline-block;
         background-color: chocolate;
-        font-size: 14px;
-        font-weight: 650;
+        font-size: 12px;
+        font-weight: 500;
         width: 90%;
         color: white;
     }
