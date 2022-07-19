@@ -99,7 +99,7 @@ text-transform: uppercase;
   .dropdown-content a {
     color: black;
     padding: 10px 10px;
-    font-weight: 400;
+    font-weight: 300;
     text-decoration: none;
     display: block;
   }
