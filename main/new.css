@@ -48,7 +48,7 @@ text-transform: uppercase;
 
 .btn:hover{
     text-decoration: underline;
-    background-color: aqua;
+    background-color: rgb(129, 189, 189);
 }
 
 .practice_header{
