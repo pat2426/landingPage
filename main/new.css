@@ -159,6 +159,7 @@ text-transform: uppercase;
     .div-text{
         margin-top: 5em;
         color: white;
+        font: 600;
         }
 
     .btn{
