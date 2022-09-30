@@ -158,6 +158,11 @@ text-transform: uppercase;
         font-weight: bold;
         }
 
+    .row{
+        padding: 6em;
+        margin-left: 5em;
+    }
+
     .btn{
         background-color: rgb(143, 232, 235);
         width: 20em;
