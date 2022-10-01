@@ -153,7 +153,7 @@ text-transform: uppercase;
     }
 
     .div-text{
-        margin-top: 5em;
+        margin-top: auto;
         color: white;
         font-weight: bold;
         }
