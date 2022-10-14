@@ -86,7 +86,7 @@ text-transform: uppercase;
 }
 
 .footer-list{
- display: inline-block;
+ display: inline;
 }
 
 .dropdown-content {
