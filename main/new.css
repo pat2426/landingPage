@@ -204,3 +204,8 @@ text-transform: uppercase;
         margin: 0 auto;
     }
 }
+
+/*Blog*/
+.blog_title{
+    text-align: center;
+}
