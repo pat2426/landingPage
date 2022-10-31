@@ -210,12 +210,17 @@ text-transform: uppercase;
     text-align: center;
 }
 
+.blog_nav{
+    background-color: darkgrey;
+    padding: 15px 10px 10px 20px;
+}
+
 .blog_nav li{
     list-style: none;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     display: inline-block;
-    background-color: chocolate;
+    background-color: rgb(87, 112, 106);
     font-size: 12px;
     width: 100%;
     color: white;
