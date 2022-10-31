@@ -209,3 +209,14 @@ text-transform: uppercase;
 .blog_title{
     text-align: center;
 }
+
+.blog_nav li{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    display: inline-block;
+    background-color: chocolate;
+    font-size: 12px;
+    width: 100%;
+    color: white;
+}
