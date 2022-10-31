@@ -208,11 +208,12 @@ text-transform: uppercase;
 /*Blog*/
 .blog_title{
     text-align: center;
+    font-size: 6em;
 }
 
 .blog_nav{
     background-color: darkgrey;
-    padding: 15px 10px 10px 20px;
+    padding: 15px 10px 10px 10px;
 }
 
 .blog_nav li{
