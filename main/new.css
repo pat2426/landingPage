@@ -240,3 +240,7 @@ text-transform: uppercase;
     height: 20em;
     background-color: aquamarine;
 }
+
+.h2{
+    text-align: center;
+}
