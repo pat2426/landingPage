@@ -209,6 +209,7 @@ text-transform: uppercase;
 .blog_title{
     text-align: center;
     font-size: 6em;
+    padding: 2px 2px 2px 2px;
 }
 
 .blog_nav{
@@ -235,5 +236,7 @@ text-transform: uppercase;
 }
 
 .jumbotron{
+    margin-top: -4em;
+    height: 20em;
     background-color: aquamarine;
 }
