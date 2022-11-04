@@ -252,3 +252,11 @@ text-transform: uppercase;
     width: 100%;
     margin: 0 auto;
 }
+
+.blog-footer-links > li > a{
+    text-decoration: none;
+    background-color:chocolate;
+    width: auto;
+    border-radius: 4px;
+    justify-content: center;
+}
