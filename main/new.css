@@ -244,3 +244,11 @@ text-transform: uppercase;
 .h2{
     text-align: center;
 }
+
+.blog-footer-links > li{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: 0 auto;
+}
