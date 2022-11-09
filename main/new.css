@@ -217,15 +217,23 @@ text-transform: uppercase;
     padding: 15px 10px 10px 10px;
 }
 
-.blog_nav li{
+.blog_nav > li{
     list-style: none;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+}
+
+.blog_nav > li > a{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
     display: inline-block;
     background-color: rgb(184, 184, 184);
     font-size: 12px;
     width: 100%;
     color: white;
+    text-transform: uppercase;
 }
 
 .blog_nav_title{
