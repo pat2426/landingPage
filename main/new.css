@@ -266,6 +266,7 @@ text-transform: uppercase;
     flex-direction: column;
     margin-right: 10px;
     padding: 10px 12px 12px 10px;
+    width: 100em;
 }
 
 .blog-footer-text{
