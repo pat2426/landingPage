@@ -271,7 +271,7 @@ text-transform: uppercase;
     list-style: none;
     display: flex;
     flex-direction: column;
-    margin-right: 10px;
+    margin-right: 12px;
     padding: 10px 12px 12px 10px;
 }
 
