@@ -258,6 +258,7 @@ text-transform: uppercase;
     display: flex;
     flex-direction: row;
     margin: 0 auto;
+    width: auto;
 }
 
 .blog-footer-links > li > a{
