@@ -273,8 +273,8 @@ text-transform: uppercase;
     list-style: none;
     display: flex;
     flex-direction: column;
-    margin-right: 12px;
-    padding: 10px 12px 12px 10px;
+    margin-right: 14px;
+    padding: 10px 14px 12px 10px;
 }
 
 .blog-footer-links a:hover{
