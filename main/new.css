@@ -277,6 +277,10 @@ text-transform: uppercase;
     padding: 10px 12px 12px 10px;
 }
 
+.blog-footer-links a:hover{
+background-color: #f1f1f1;
+}
+
 .blog-footer-text{
     text-align: center;
 }
