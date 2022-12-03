@@ -215,12 +215,15 @@ text-transform: uppercase;
 .blog_nav{
     background-color: darkgrey;
     padding: 14px 10px 10px 10px;
+    
 }
 
 .blog_nav > li{
     list-style: none;
     display: flex;
     flex-direction: column;
+    margin-right: 14px;
+    padding: 10px 14px 12px 10px;
 }
 
 .blog_nav > li > a{
