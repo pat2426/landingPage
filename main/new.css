@@ -236,6 +236,10 @@ text-transform: uppercase;
     text-transform: uppercase;
 }
 
+.blog_nav_list a:hover{
+    background-color: rgb(184, 184, 184);
+}
+
 .blog_nav_title{
     list-style: none;
     display: flex;
