@@ -242,7 +242,7 @@ text-transform: uppercase;
 }
 /*Working on hover stateS*/
 .blog_nav a:hover{
-    background-color: rgb(184, 184, 184);
+    background-color: #f1f1f1;
 }
 
 .blog_nav_title{
