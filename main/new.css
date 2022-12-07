@@ -238,6 +238,7 @@ text-transform: uppercase;
     width: 100%;
     color: white;
     text-transform: uppercase;
+    padding: 10px 10px 10px 10px;
 }
 /*Working on hover stateS*/
 .blog_nav a:hover{
