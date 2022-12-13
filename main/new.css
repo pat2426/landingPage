@@ -279,6 +279,7 @@ text-transform: uppercase;
     width: auto;
     justify-content: center;
     padding: 12px 12px 12px 12px;
+    font-weight: bold;
 }
 
 .blog-footer-links{
