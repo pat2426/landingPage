@@ -213,6 +213,10 @@ text-transform: uppercase;
     margin-bottom: 12px;
 }
 
+.subtitle{
+    margin-left: 20px;
+}
+
 .blog_nav{
     background-color: darkgrey;
     padding: 14px 10px 10px 10px;
