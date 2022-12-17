@@ -214,7 +214,8 @@ text-transform: uppercase;
 }
 
 .subtitle{
-    margin-left: 50em;
+    margin-left: 46%;
+    border-bottom: 1px solid black;
 }
 
 .blog_nav{
