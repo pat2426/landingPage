@@ -280,7 +280,7 @@ text-transform: uppercase;
 
 .blog-footer-links > li > a{
     text-decoration: none;
-    background-color: rgb(184, 184, 184);
+    background-color: darkgrey;
     width: auto;
     justify-content: center;
     padding: 14px 12px 14px 12px;
