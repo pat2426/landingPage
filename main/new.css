@@ -304,3 +304,13 @@ text-transform: uppercase;
     text-align: center;
     padding: auto;
 }
+
+/*Service Page*/
+
+.section_one{
+    float: left;
+}
+
+.section_two{
+    float: right;
+}
