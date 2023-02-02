@@ -307,10 +307,6 @@ text-transform: uppercase;
 
 /*Service Page*/
 
-.section_one{
-    float: left;
-}
-
-.section_two{
-    float: right;
+.section-row{
+    
 }
