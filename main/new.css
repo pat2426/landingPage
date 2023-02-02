@@ -308,5 +308,6 @@ text-transform: uppercase;
 /*Service Page*/
 
 .section-row{
-    
+    display: flex;
+    flex-direction: row;
 }
