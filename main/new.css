@@ -311,3 +311,7 @@ text-transform: uppercase;
     display: flex;
     flex-direction: row;
 }
+
+.section-one{
+    width: 60%;
+}
