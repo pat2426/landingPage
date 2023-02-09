@@ -2,6 +2,22 @@
     background-color: white;
 }
 
+.full-page::after {
+    content: "";
+    background-image: url("backgroundImage.jpg");
+    background-size: cover;
+    background-color: #ccc;
+    background-blend-mode: darken, overlay;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    opacity: 0.80;
+    z-index: -1;
+    height: 100%;
+}
+
 .nav-bar{
     padding: 4% 6% 2% 30%;
     word-spacing: 4em;
