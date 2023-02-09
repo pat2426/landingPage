@@ -229,6 +229,13 @@ text-transform: uppercase;
     margin-bottom: 12px;
 }
 
+.h2{
+    color: white;
+}
+
+.text{
+    color: white;
+}
 .subtitle{
     margin-left: 46%;
     border-bottom: 1px solid black;
