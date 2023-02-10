@@ -237,8 +237,8 @@ text-transform: uppercase;
     color: white;
 }
 
-.para-text{
-    width: 100%;
+.section-row{
+    width: 100em;
 }
 
 .subtitle{
