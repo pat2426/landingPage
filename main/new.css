@@ -236,6 +236,11 @@ text-transform: uppercase;
 .text{
     color: white;
 }
+
+.para-text{
+    width: 10em;
+}
+
 .subtitle{
     margin-left: 46%;
     border-bottom: 1px solid black;
