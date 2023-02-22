@@ -340,6 +340,9 @@ text-transform: uppercase;
     flex-direction: row;
 }
 
+.section_one_para{
+    width: 50%;
+}
 .section-one{
     width: 20%;
 }
