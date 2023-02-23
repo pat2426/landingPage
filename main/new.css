@@ -343,6 +343,10 @@ text-transform: uppercase;
 .section_one_para{
     width: 50%;
 }
+
+.section_two_para{
+    width: 50%;
+}
 .section-one{
     width: 20%;
 }
