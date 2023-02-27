@@ -235,6 +235,7 @@ text-transform: uppercase;
 
 .text{
     color: white;
+    font-size: bold;
 }
 
 .section-row{
