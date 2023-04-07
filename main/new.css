@@ -72,6 +72,10 @@ text-transform: uppercase;
     background-color: rgb(143, 197, 197);
 }
 
+.btn{
+    margin: auto;
+}
+
 .practice_header{
     text-align: center;
     font-size: 3em;
