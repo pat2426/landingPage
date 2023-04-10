@@ -76,6 +76,10 @@ text-transform: uppercase;
     margin-left: 50%;
 }
 
+.sub-header{
+    margin-left: 50%;
+}
+
 .practice_header{
     text-align: center;
     font-size: 2.5em;
