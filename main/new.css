@@ -55,7 +55,7 @@ text-transform: uppercase;
 .col-md-4:hover{
     background-color:rgb(255, 142, 61);
     transition: 0.3s;
-    color: #cababa;
+    color: #faf3f3;
 }
 
 .btn{
