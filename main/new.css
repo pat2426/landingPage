@@ -105,7 +105,7 @@ text-transform: uppercase;
 
 .footer-links > li > a:hover{
     text-decoration: underline;
-    background-color:rgb(185, 136, 101);
+    background-color:rgb(175, 125, 89);
 }
 
 .footer-links > li{
