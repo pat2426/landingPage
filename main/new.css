@@ -88,6 +88,10 @@ text-transform: uppercase;
     font-family: 'Segoe UI', sans-serif;
 }
 
+.practice_text{
+    text-align: center;
+}
+
 .footer{
     background-color: burlywood;
     margin-top: 12px;
