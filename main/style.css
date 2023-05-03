@@ -77,8 +77,8 @@ nav a:hover {
 
 .input-container label {
     position: absolute;
-    top: 0px;
-    left: 0px;
+    top: 1px;
+    left: 1px;
     font-size: 1.6rem;
     color: #fff;
     pointer-events: none;
