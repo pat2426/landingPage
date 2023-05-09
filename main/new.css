@@ -298,7 +298,7 @@ text-transform: uppercase;
 }
 /*Working on hover states*/
 .blog_nav a:hover{
-    background-color: #dfd7d7;
+    background-color: #9c9797;
 }
 
 .blog_nav_title{
@@ -375,4 +375,3 @@ text-transform: uppercase;
 .section-two{
     width: 50%;
 }
-/*Need to make adjustments*/
