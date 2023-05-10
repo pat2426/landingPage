@@ -64,7 +64,7 @@ text-transform: uppercase;
     text-align: center;
     text-decoration: none;
     background-color: rgb(143, 232, 235);
-    margin-left: 18px;
+    margin-left: 12px;
     font-size:14px;
     font-weight: 300;
 }
@@ -75,7 +75,7 @@ text-transform: uppercase;
 }
 
 .btn{
-    margin-left: 50%;
+    margin-left: 45%;
 }
 
 .sub-header{
