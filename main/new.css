@@ -311,7 +311,7 @@ text-transform: uppercase;
 .jumbotron{
     margin-top: -5em;
     height: 20em;
-    background-color: aquamarine;
+    background-color: rgb(160, 219, 199);
 }
 
 .h2{
