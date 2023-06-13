@@ -142,6 +142,10 @@ nav a:hover {
     font-weight: 600;
 }
 
+.submit:hover {
+    background-color: rgb(95, 111, 155);
+}
+
 .footer-text {
     margin-top: 1.5em;
     color: black;
