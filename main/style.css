@@ -193,6 +193,9 @@ nav a:hover {
     color: whitesmoke;
 }
 
+.tos:hover {
+    background-color: #cfcfcf;
+}
 #menu-link {
     font-size: 20px;
 }
