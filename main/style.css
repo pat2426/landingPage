@@ -196,6 +196,7 @@ nav a:hover {
 .tos:hover {
     background-color: #cfcfcf;
 }
+
 #menu-link {
     font-size: 20px;
 }
@@ -364,7 +365,7 @@ img {
 
 
     .sign-up-form {
-        padding: 1em;
+        padding: 1.5em;
     }
 
     .input-container input {
