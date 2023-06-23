@@ -351,6 +351,10 @@ img {
         z-index: -1;
     }
 
+    .subtitle{
+        padding: 10px;
+    }
+
     nav ul {
         display: flex;
         list-style: none;
