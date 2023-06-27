@@ -401,7 +401,7 @@ img {
         flex-direction: column;
         background-position: 0 100%;
         background-repeat: repeat-x;
-        background-size: 4px 4px;
+        background-size: 2px 2px;
         color: #000;
         text-decoration: none;
         transition: background-size .2.5s;
