@@ -348,7 +348,6 @@ img {
         opacity: 0.80;
         z-index: -1;
         height: 100%;
-        z-index: -1;
     }
 
     .subtitle{
@@ -370,11 +369,11 @@ img {
 
 
     .sign-up-form {
-        padding: 1em;
+        padding: 1.5em;
     }
 
     .input-container input {
-        width: 35rem;
+        width: 28rem;
     }
 
     .footer-text {
