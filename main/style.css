@@ -362,18 +362,19 @@ img {
 
     nav a {
         display: inline-block;
-        padding: 1em;
+        padding: 1
+        em;
         text-decoration: none;
         color: whitesmoke;
     }
 
 
     .sign-up-form {
-        padding: 1.5em;
+        padding: 1em;
     }
 
     .input-container input {
-        width: 28rem;
+        width: 35rem;
     }
 
     .footer-text {
