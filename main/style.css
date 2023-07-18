@@ -328,6 +328,10 @@ img {
         display: flex;
         flex-direction: column;
     }
+
+    .footer-links {
+        text-align: center;
+    }
    
 }
 
