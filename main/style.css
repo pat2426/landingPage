@@ -255,7 +255,7 @@ img {
         margin-top: 35%;
     }
 
-    .full-page::before {
+    .full-page::after {
         content: "";
         background-image: url("backgroundImage.jpg");
         background-size: cover;
@@ -337,7 +337,7 @@ img {
 
  /*ipad screen size media query*/
 @media only screen and (max-width: 1024px) {
-    .full-page::before {
+    .full-page::after {
         content: "";
         background-image: url("backgroundImage.jpg");
         background-size: cover;
