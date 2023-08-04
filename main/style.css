@@ -139,7 +139,6 @@ nav a:hover {
     font-size: 1rem;
     border-radius: 4px;
     height: 3rem;
-    font-weight: 600;
 }
 
 .submit:hover {
@@ -198,7 +197,7 @@ nav a:hover {
 }
 
 #menu-link {
-    font-size: 20px;
+    font-size: 18px;
 }
 
 /*About Us page*/
