@@ -5,7 +5,7 @@ function mobileMenu() {
 }
 
 function changeColor(){
-    
+    var color = document.getElementsByClassName("btn")
 }
 
 /*Toggle function*/
