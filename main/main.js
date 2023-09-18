@@ -15,6 +15,7 @@ function toggle() {
     }
 }
 
+
 /*form animation */
 function newAnimation(){
     var links = document.getElementsByClassName("footer-links");
