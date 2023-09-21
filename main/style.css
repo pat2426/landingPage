@@ -46,6 +46,10 @@ nav a:hover {
     font-weight: 700;
 }
 
+.header{
+    text-align: center;
+}
+
 .main-logo {
     float: left;
     font-size: 25px;
