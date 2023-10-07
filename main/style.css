@@ -241,6 +241,10 @@ img {
         transition: .6s;
     }
 
+    .text-title{
+        display: flex;
+    }
+
     .sidenav {
         background-color: rgb(52, 26, 35, .5);
     }
