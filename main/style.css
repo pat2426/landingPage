@@ -246,19 +246,6 @@ img {
         flex-direction: row;
     }
 
-    .text-title > div{
-        margin: 10px;
-        padding: 20px;
-    }
-
-    .full-section{
-        display: flex;
-    }
-
-    .full-section > section{
-        margin: 10px;
-        padding: 20px;
-    }
 
     .sidenav {
         background-color: rgb(52, 26, 35, .5);
