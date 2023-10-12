@@ -245,6 +245,15 @@ img {
         display: flex;
     }
 
+    .full-section{
+        display: flex;
+    }
+
+    .full-section > section{
+        margin: 10px;
+        padding: 20px;
+    }
+
     .sidenav {
         background-color: rgb(52, 26, 35, .5);
     }
