@@ -241,9 +241,10 @@ img {
         transition: .6s;
     }
 
-    .text-title{
+    .full-section{
         display: flex;
         flex-direction: row;
+        background-color: blue;
     }
 
 
