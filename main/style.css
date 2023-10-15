@@ -73,6 +73,12 @@ nav a:hover {
     margin-top: 8em;
 }
 
+.full-section{
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+}
+
 .sign-up-form {
     padding: 1.4em;
 }
@@ -242,9 +248,9 @@ img {
     }
 
     .full-section{
+        background-color: blue;
         display: flex;
         flex-direction: row;
-        background-color: blue;
     }
 
 
