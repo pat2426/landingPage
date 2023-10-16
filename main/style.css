@@ -78,6 +78,11 @@ nav a:hover {
     flex-direction: row;
 }
 
+.heading{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+
 .sign-up-form {
     padding: 1.4em;
 }
