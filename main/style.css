@@ -81,6 +81,7 @@ nav a:hover {
 .heading{
     font-family: 'Courier New', Courier, monospace;
     font-size: larger;
+    font-weight: 600;
 }
 
 .sign-up-form {
