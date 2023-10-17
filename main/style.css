@@ -87,6 +87,7 @@ nav a:hover {
 .image{
     width: 40px;
     height: 40px;
+    margin-left: 10em;
 }
 
 .sign-up-form {
