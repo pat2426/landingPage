@@ -84,6 +84,11 @@ nav a:hover {
     font-weight: 600;
 }
 
+.image{
+    width: 40px;
+    height: 40px;
+}
+
 .sign-up-form {
     padding: 1.4em;
 }
