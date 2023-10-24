@@ -85,9 +85,8 @@ nav a:hover {
 }
 
 .image{
-    width: 40px;
-    height: 40px;
-    margin-left: 10em;
+    display: flex;
+    flex-direction: column;
 }
 
 .sign-up-form {
