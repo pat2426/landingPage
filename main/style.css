@@ -86,7 +86,8 @@ nav a:hover {
 
 .image{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    padding: 10px 10px 10px 10px;
 }
 
 .sign-up-form {
