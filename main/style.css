@@ -90,6 +90,11 @@ nav a:hover {
     padding: 10px 10px 10px 10px;
 }
 
+.holder-image{
+    height: 2em;
+    width: 2em;
+}
+
 .sign-up-form {
     padding: 1.4em;
 }
