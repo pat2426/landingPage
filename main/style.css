@@ -87,7 +87,6 @@ nav a:hover {
 .image{
     display: flex;
     flex-direction: row;
-    padding: 2px 2px 2px 2px;
 }
 
 .holder-image{
