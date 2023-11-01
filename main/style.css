@@ -87,7 +87,7 @@ nav a:hover {
 .image{
     display: flex;
     flex-direction: row;
-    margin-right: 8em;
+    margin-right: 10em;
 }
 
 .holder-image{
