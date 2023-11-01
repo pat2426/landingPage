@@ -92,6 +92,7 @@ nav a:hover {
 .holder-image{
     height: 8em;
     width: 8em;
+    padding: 1em 1em 1em 1em;
 }
 
 .sign-up-form {
