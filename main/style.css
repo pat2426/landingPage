@@ -66,6 +66,10 @@ nav a:hover {
     padding: 2.4em;
 }
 
+.header{
+font-size: 30px;
+}
+
 .text-title {
     font-size: 18px;
     width: 50%;
