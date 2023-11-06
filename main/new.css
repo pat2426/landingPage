@@ -387,10 +387,12 @@ text-transform: uppercase;
 
 .section_one_para{
     width: 50%;
+    font-size: larger;
 }
 
 .section_two_para{
     width: 50%;
+    font-size: larger;
 }
 .section-one{
     width: 50%;
