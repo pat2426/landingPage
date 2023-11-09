@@ -67,8 +67,8 @@ nav a:hover {
 }
 
 .header{
-font-size: 30px;
-border-bottom: 2px #000 solid;
+    font-size: 30px;
+    border-bottom:  4mm ridge #000;
 }
 
 .text-title {
