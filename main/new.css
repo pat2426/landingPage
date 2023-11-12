@@ -86,7 +86,7 @@ text-transform: uppercase;
     text-align: center;
     font-size: 2.5em;
     font-family: 'Segoe UI', sans-serif;
-    border-bottom:  2mm solid #000;
+    text-decoration: underline;
 }
 
 .practice_text{
