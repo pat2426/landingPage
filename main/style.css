@@ -76,13 +76,11 @@ nav a:hover {
     width: 50%;
     font-weight: 600;
     margin-top: 8em;
-    margin-left: 8em;
 }
 
 .full-section{
     display: flex;
     flex-direction: row;
-    padding-bottom: 10px;
 }
 
 .heading{
