@@ -81,6 +81,7 @@ nav a:hover {
 .full-section{
     display: flex;
     flex-direction: row;
+    
 }
 
 .heading{
