@@ -81,7 +81,6 @@ nav a:hover {
 .full-section{
     display: flex;
     flex-direction: row;
-    
 }
 
 .heading{
@@ -237,7 +236,6 @@ nav a:hover {
 }
 
 /*About Us page*/
-
 .about-us-container {
     text-align: center;
     color: white;
@@ -277,7 +275,6 @@ img {
         display: flex;
         flex-direction: row;
     }
-
 
     .sidenav {
         background-color: rgb(52, 26, 35, .5);
@@ -373,8 +370,6 @@ img {
     .footer-links {
         text-align: center;
     }
-
-   
 }
 
  /*ipad screen size media query*/
