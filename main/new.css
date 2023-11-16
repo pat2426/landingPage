@@ -388,11 +388,13 @@ text-transform: uppercase;
 .section_one_para{
     width: 50%;
     font-size: larger;
+    background-color: #5898c0;
 }
 
 .section_two_para{
     width: 50%;
     font-size: larger;
+    background-color: #5898c0;
 }
 .section-one{
     width: 50%;
