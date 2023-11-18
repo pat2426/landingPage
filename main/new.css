@@ -267,6 +267,7 @@ text-transform: uppercase;
 
 .h2{
     color: white;
+    text-decoration: underline;
 }
 
 .text{
