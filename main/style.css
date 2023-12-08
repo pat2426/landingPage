@@ -271,7 +271,6 @@ img {
     }
 
     .full-section{
-        background-color: blue;
         display: flex;
         flex-direction: row;
     }
