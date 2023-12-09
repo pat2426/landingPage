@@ -360,7 +360,7 @@ img {
     }
 
     .footer-nav ul a {
-        font-size: 12px;
+        font-size: 10px;
         font-weight: bolder;
         display: flex;
         flex-direction: column;
