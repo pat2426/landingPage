@@ -71,6 +71,10 @@ nav a:hover {
     border-bottom:  1.5mm solid #000;
 }
 
+.header-style > h2{
+    list-style: circle;
+}
+
 .text-title {
     font-size: 18px;
     width: 50%;
