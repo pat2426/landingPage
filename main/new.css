@@ -111,6 +111,7 @@ text-transform: uppercase;
     text-decoration: underline;
     background-color:rgb(255, 142, 61);
     border-radius: 5px;
+    color: #faf3f3;;
 }
 
 .footer-links > li{
