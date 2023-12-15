@@ -48,8 +48,9 @@ margin-left: 10%;
 }
 
 .div-text{
-margin-top: 20%;
-text-transform: uppercase;
+    color: white;
+    margin-top: 20%;
+    text-transform: uppercase;
 }
 
 .col-md-4:hover{
