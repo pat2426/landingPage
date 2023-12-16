@@ -71,8 +71,8 @@ nav a:hover {
     border-bottom:  1.2mm solid #000;
 }
 
-.header-style > h2{
-    list-style: circle;
+.header-style{
+    border-bottom: .5mm solid #fff;
 }
 
 .text-title {
