@@ -79,6 +79,10 @@ margin-left: 10%;
     margin-left: 45%;
 }
 
+.jumbo-title{
+    border-bottom: black solid;
+    text-align: center;
+}
 .sub-header{
     margin-left: 45%;
 }
