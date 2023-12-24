@@ -407,9 +407,11 @@ margin-left: 10%;
 }
 .section-one{
     display: flex;
+    flex-direction: column;
     width: 50%;
 }
 
 .section-two{
+    display: flex;
     width: 50%;
 }
