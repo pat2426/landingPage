@@ -32,6 +32,10 @@
     text-transform: uppercase;
 }
 
+.main-logo{
+    margin-bottom: 4px;
+}
+
 .col-md-4{
     display: flex;
     flex-direction: column;
