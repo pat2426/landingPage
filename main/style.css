@@ -335,6 +335,12 @@ img {
         font-weight: bolder;
     }
 
+    .holder-image{
+        height: 8em;
+        width: 8em;
+        padding: 1em 1em 1em 1em;
+    }
+
     .sign-up-form {
         padding: 1.5px;
     }
