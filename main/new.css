@@ -404,7 +404,7 @@ margin-left: 10%;
 
 .section-row{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 .section_one_para{
