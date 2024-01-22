@@ -367,11 +367,11 @@ img {
         display: flex;
         flex-direction: column;
         text-align: center;
-        width: 100%;
+        width: 90%;
     }
 
     .footer-nav ul a {
-        font-size: 10px;
+        font-size: 12px;
         font-weight: bolder;
         display: flex;
         flex-direction: column;
@@ -434,6 +434,10 @@ img {
         flex-direction: column;
         text-align: center;
         width: 100%;
+    }
+
+    .footer-links{
+        font-size: large;
     }
 
 }
