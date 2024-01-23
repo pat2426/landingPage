@@ -401,7 +401,6 @@ margin-left: 10%;
 }
 
 /*Service Page*/
-
 .section-row{
     display: flex;
     flex-direction: column;
@@ -418,6 +417,7 @@ margin-left: 10%;
     font-size: larger;
     background-color: #5898c0;
 }
+
 .section-one{
     display: flex;
     flex-direction: column;
