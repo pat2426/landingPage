@@ -64,6 +64,11 @@ margin-left: 10%;
     font-size: 12px;
 }
 
+.main-div{
+    display: flex;
+    flex-direction: column;
+}
+
 .btn{
     border: none;
     padding: 18px 30px;
