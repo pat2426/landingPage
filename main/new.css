@@ -69,6 +69,12 @@ margin-left: 10%;
     flex-direction: column;
 }
 
+.submain-div{
+    background-color: #5898c0;
+    height: 30px;
+    width: 30px;
+}
+
 .btn{
     border: none;
     padding: 18px 30px;
