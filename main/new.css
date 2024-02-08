@@ -82,6 +82,11 @@ margin-left: 10%;
 .one{
     flex: 1 1 auto;
 }
+
+.two{
+    align-items: flex-start;
+}
+
 .btn{
     border: none;
     padding: 18px 30px;
