@@ -67,7 +67,7 @@ margin-left: 10%;
 .main-div{
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
+    flex-flow: row wrap;
     justify-content: space-around;
 }
 
