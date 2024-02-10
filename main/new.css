@@ -85,6 +85,11 @@ margin-left: 10%;
 
 .two{
     align-items: flex-start;
+    flex: 1;
+}
+
+.three{
+    flex-direction: column;
 }
 
 .btn{
