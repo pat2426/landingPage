@@ -87,9 +87,6 @@ margin-left: 10%;
     flex: 1;
 }
 
-.three{
-    flex-direction: column;
-}
 
 .btn{
     border: none;
