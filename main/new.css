@@ -80,15 +80,12 @@ margin-left: 10%;
 
 .one{
     flex: 1 1 auto;
-    height:12em ;
+    height:12em;
 }
-
-
 
 .two{
     flex: 1;
 }
-
 
 .btn{
     border: none;
