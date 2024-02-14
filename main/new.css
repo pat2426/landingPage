@@ -72,15 +72,15 @@ margin-left: 10%;
 
 .submain-div{
     background-color: #5898c0;
-    width: 60px;
+    width: 40px;
     margin:10px 10px 10px 10px;
     text-align: center;
     flex-flow: row wrap;
 }
 
 .one{
-    flex: 1 1 auto;
-    height:12em;
+    flex: 1 auto;
+    height:10em;
 }
 
 .two{
