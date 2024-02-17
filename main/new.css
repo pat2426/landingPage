@@ -70,6 +70,14 @@ margin-left: 10%;
     justify-content: space-around;
 }
 
+.div-two{
+    display: flex;
+}
+
+.div-three{
+    display: flex;
+}
+
 .submain-div{
     background-color: #5898c0;
     width: 40px;
@@ -79,7 +87,7 @@ margin-left: 10%;
 }
 
 .one{
-    flex: 1 auto;
+    flex: 3 auto;
     height:10em;
 }
 
