@@ -71,6 +71,7 @@ margin-left: 10%;
 
 .div-two{
     display: flex;
+    flex-grow: inherit;
     color: #635e5e;
 }
 
