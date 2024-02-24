@@ -82,12 +82,12 @@ margin-left: 10%;
 .submain-div{
     background-color: #5898c0;
     width: 40px;
-    margin:10px 10px 10px 10px;
+    margin:10px 20px 10px 10px;
     text-align: center;
 }
 
 .one{
-    flex: 0.5 auto;
+    flex: 0.2 auto;
     height:10em;
 }
 
