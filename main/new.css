@@ -64,6 +64,10 @@ margin-left: 10%;
     font-size: 12px;
 }
 
+.full-div{
+    flex-direction: flex;
+}
+
 .main-div{
     display: flex;
     color: #635e5e;
