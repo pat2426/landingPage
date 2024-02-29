@@ -93,6 +93,15 @@ margin-left: 10%;
     text-align: center;
 }
 
+.section-row{
+ display: flex;
+}
+
+.section_two_para{
+    float: right;
+    margin-right: 10em;
+}
+
 .one{
     flex: 0.25 auto;
     height:10em;
