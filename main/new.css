@@ -71,20 +71,20 @@ margin-left: 10%;
 
 .main-div{
     display: flex;
-    color: #635e5e;
+    color: #1f1d1d;
     margin-left: 20%;
     font-size: 20px;
 }
 
 .div-two{
     display: flex;
-    color: #635e5e;
+    color: #1f1d1d;
     float: right;
 }
 
 .div-three{
     display: flex;
-    color: #635e5e;
+    color: #1f1d1d;
     float: right;
 }
 
