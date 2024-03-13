@@ -80,7 +80,7 @@ margin-left: 10%;
     display: flex;
     color: #1f1d1d;
     float: right;
-    margin-right: 20em;
+    margin-right: 35em;
     margin-top: -16em;
     padding: 40px 40px 40px 40px;
 }
@@ -89,6 +89,8 @@ margin-left: 10%;
     display: flex;
     color: #1f1d1d;
     float: right;
+    margin-top: -12em;
+    margin-right: 37.5em;
 }
 
 .submain-div{
