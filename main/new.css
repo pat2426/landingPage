@@ -76,11 +76,16 @@ margin-left: 10%;
     font-size: 20px;
 }
 
+.submain-div.two{
+    width: 6em;
+    height: 6em;
+}
+
 .div-two{
     display: flex;
     color: #1f1d1d;
     float: right;
-    margin-right: 35em;
+    margin-right: 32em;
     margin-top: -16em;
     padding: 40px 40px 40px 40px;
 }
