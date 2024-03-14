@@ -81,6 +81,11 @@ margin-left: 10%;
     height: 6em;
 }
 
+.submain-div.four{
+    width: 6em;
+    height: 6em;
+}
+
 .div-two{
     display: flex;
     color: #1f1d1d;
