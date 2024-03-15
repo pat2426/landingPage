@@ -77,13 +77,13 @@ margin-left: 10%;
 }
 
 .submain-div.two{
-    width: 6em;
-    height: 6em;
+    width: 5em;
+    height: 5em;
 }
 
 .submain-div.four{
-    width: 6em;
-    height: 6em;
+    width: 5em;
+    height: 5em;
 }
 
 .div-two{
@@ -99,8 +99,8 @@ margin-left: 10%;
     display: flex;
     color: #1f1d1d;
     float: right;
-    margin-top: -12em;
-    margin-right: 37.5em;
+    margin-top: -6.5em;
+    margin-right: 34.5em;
 }
 
 .submain-div{
