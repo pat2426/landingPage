@@ -86,6 +86,11 @@ margin-left: 10%;
     height: 5em;
 }
 
+.submain-div.five{
+    width: 5em;
+    height: 5em;
+}
+
 .div-two{
     display: flex;
     color: #1f1d1d;
@@ -94,7 +99,6 @@ margin-left: 10%;
     margin-top: -16em;
     padding: 40px 40px 40px 40px;
 }
-
 .div-three{
     display: flex;
     color: #1f1d1d;
