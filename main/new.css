@@ -309,6 +309,15 @@ margin-left: 10%;
         margin-left: 10%;
     }
 
+    .div-two{
+        display: flex;
+        color: #1f1d1d;
+        float: right;
+        margin-right: 2em;
+        margin-top: -16em;
+        padding: 40px 40px 40px 40px;
+    }
+
     .practice_header{
         text-transform: uppercase;
         margin-right: 20px;
