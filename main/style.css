@@ -417,6 +417,9 @@ img {
         color: whitesmoke;
     }
 
+    .header-style{
+        float: left;
+    }
 
     .sign-up-form {
         padding: 1.5em;
