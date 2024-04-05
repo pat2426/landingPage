@@ -342,6 +342,16 @@ img {
         padding: 1em 1em 1em 1em;
     }
 
+    img {
+        border: 1.5px solid rgb(102, 102, 102);
+        border-radius: 4px;
+        padding: 4px;
+        width: 20em;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
     .sign-up-form {
         padding: 1.5px;
     }
