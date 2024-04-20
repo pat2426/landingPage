@@ -378,6 +378,8 @@ margin-left: 10%;
 .h2{
     color: white;
     text-decoration: underline;
+    background-color: #1f1d1d;
+    width: 20em;
 }
 
 .text{
