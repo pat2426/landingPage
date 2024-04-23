@@ -258,6 +258,7 @@ img {
     border: 1.5px solid rgb(65, 65, 65);
     border-radius: 4px;
     padding: 4px;
+    height: 15em;
     width: auto;
     display: block;
     margin-left: auto;
