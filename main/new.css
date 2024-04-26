@@ -345,6 +345,7 @@ margin-left: 10%;
         list-style: none;
         display: flex;
         flex-direction: column;
+        height: auto;
         margin-right: 12px;
         padding: 10px 12px 12px 10px;
     }
