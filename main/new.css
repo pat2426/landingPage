@@ -499,7 +499,7 @@ margin-left: 10%;
 .section-row{
     display: flex;
     flex-direction: column;
-    padding: 2em;
+    padding: 2.5em;
 }
 
 .section_one_para{
