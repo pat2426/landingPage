@@ -500,6 +500,7 @@ margin-left: 10%;
     display: flex;
     flex-direction: column;
     padding: 2.5em;
+    align-self: center;
 }
 
 .section_one_para{
