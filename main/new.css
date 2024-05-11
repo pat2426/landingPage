@@ -157,7 +157,7 @@ margin-left: 10%;
 .btn:hover{
     text-decoration: underline;
     background-color: rgb(93, 131, 131);
-    padding: 2em 2em 2em 2em;
+    padding: 1em 2em 2em 4em;
 }
 
 .btn{
