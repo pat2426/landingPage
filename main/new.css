@@ -79,24 +79,28 @@ margin-left: 10%;
 .submain-div.two{
     width: 5em;
     height: 5em;
+    padding: 2px;
     border: 1px solid black;
 }
 
 .submain-div.three{
     width: 5em;
     height: 5em;
+    padding: 2px;
     border: 1px solid black;
 }
 
 .submain-div.four{
     width: 5em;
     height: 5em;
+    padding: 2px;
     border: 1px solid black;
 }
 
 .submain-div.five{
     width: 5em;
     height: 5em;
+    padding: 2px;
     border: 1px solid black;
 }
 
