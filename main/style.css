@@ -364,7 +364,7 @@ img {
 
     .tos{
         color: white;
-        font-size: 18px;
+        font-size: 14px;
         text-align: center;
     }
 
@@ -438,8 +438,8 @@ img {
     }
 
     .input-container input {
-        width: 18rem;
-        margin-bottom: 1.5em;
+        width: 16rem;
+        margin-bottom: 1em;
     }
 
     .footer-text {
