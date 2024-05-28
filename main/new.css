@@ -521,6 +521,7 @@ margin-left: 10%;
     width: 25%;
     font-size: larger;
     background-color: #5898c0;
+    float: left;
 }
 
 .section-one{
