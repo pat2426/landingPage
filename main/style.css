@@ -440,6 +440,7 @@ img {
     .input-container input {
         width: 20rem;
         margin-bottom: 1em;
+        height: 5em;
     }
 
     .footer-text {
