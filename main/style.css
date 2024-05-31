@@ -82,6 +82,8 @@ nav a:hover {
     width: 50%;
     font-weight: 600;
     margin-top: 8em;
+    background-color: #424242;
+    opacity: 0.5;
 }
 
 .full-section{
