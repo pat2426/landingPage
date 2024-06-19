@@ -75,6 +75,7 @@ nav a:hover {
 
 .header-style{
     border-bottom: .5mm solid #fff;
+    text-align: center;
 }
 
 .text-title {
@@ -434,7 +435,7 @@ img {
     }
 
     .header-style{
-        float: left;
+        text-align: center;
     }
 
     .sign-up-form {
