@@ -344,6 +344,7 @@ img {
 
     .text-title {
         font-size: 12px;
+        width: 100%;
     }
 
     .holder-image{
