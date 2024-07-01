@@ -310,7 +310,7 @@ img {
         margin-top: 35%;
     }
 
-    .full-page {
+    .full-page::after {
         content: "";
         background-image: url("backgroundImage.jpg");
         background-size: cover;
