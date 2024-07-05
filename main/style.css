@@ -264,6 +264,10 @@ nav a:hover {
     opacity: 65%;
 }
 
+.about-us-text{
+ background-color: rgb(52, 26, 35, .5);
+}
+
 img {
     border: 1.5px solid rgb(65, 65, 65);
     border-radius: 4px;
