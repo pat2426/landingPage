@@ -442,6 +442,11 @@ img {
         color: whitesmoke;
     }
 
+    .about-us-text{
+        background-color: rgb(52, 26, 35, .5);
+        width: 20em;
+       }
+
     .header-style{
         text-align: center;
     }
