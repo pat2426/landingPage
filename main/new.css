@@ -79,6 +79,7 @@ margin-left: 10%;
 .submain-div.one{
     width: 20em;
     margin-right: 60em;
+    border: 1px solid black;
 }
 
 .submain-div.two{
