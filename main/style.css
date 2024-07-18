@@ -294,7 +294,7 @@ img {
 
     .full-section{
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
     }
 
     .sidenav {
@@ -456,6 +456,14 @@ img {
     .header-style{
         text-align: center;
     }
+
+    .full-section{
+        display: flex;
+        flex-direction: column;
+        margin-top: 2em;
+    }
+
+    
 
     .sign-up-form {
         padding: 2em;
