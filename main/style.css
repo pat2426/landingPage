@@ -376,6 +376,11 @@ img {
         width: 24rem;
     }
 
+    .one{
+        margin-bottom: 2em;
+        height: 10em;
+    }
+
     .tos{
         color: white;
         font-size: 14px;
