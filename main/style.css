@@ -463,7 +463,9 @@ img {
         margin-top: 2em;
     }
 
-    
+    .holder-image{
+        padding: 1.5em;
+    }
 
     .sign-up-form {
         padding: 2em;
