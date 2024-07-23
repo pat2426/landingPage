@@ -324,8 +324,9 @@ margin-left: 10%;
         display: flex;
         color: #1f1d1d;
         float: right;
-        margin-right: 2em;
+        margin-right: 6em;
         margin-top: -12em;
+        margin-bottom: 6em;
         padding: 40px 40px 40px 40px;
     }
 
