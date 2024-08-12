@@ -259,9 +259,10 @@ nav a:hover {
 
 .about-us-header {
     text-decoration: underline;
-    color: whitesmoke;
+    color: white;
     background-color: rgb(131, 181, 223);
     opacity: 75%;
+    
 }
 
 .about-us-text{
