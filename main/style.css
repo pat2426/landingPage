@@ -266,7 +266,8 @@ nav a:hover {
     color: white;
     background-color: rgb(131, 181, 223);
     opacity: 75%;
-    
+    width: 20em;
+    align-self: center;
 }
 
 .about-us-text{
