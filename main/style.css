@@ -461,6 +461,10 @@ img {
         margin: 0 auto;
        }
 
+    .about-us-header{
+        margin: 2em;
+    }
+
     .header-style{
         text-align: center;
     }
