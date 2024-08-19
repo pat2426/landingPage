@@ -457,12 +457,13 @@ img {
 
     .about-us-text{
         background-color: rgb(52, 26, 35, .5);
-        width: 18em;
+        width: 16em;
         margin: 0 auto;
        }
 
     .about-us-header{
         margin: 2em;
+        width: 16em;
     }
 
     .header-style{
