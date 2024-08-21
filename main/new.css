@@ -2,7 +2,7 @@
     background-color: white;
 }
 
-.full-page::after {
+.full-page::before {
     content: "";
     background-image: url("backgroundImage.jpg");
     background-size: cover;
