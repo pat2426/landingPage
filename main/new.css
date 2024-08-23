@@ -1,8 +1,5 @@
-.document{
-    background-color: white;
-}
 
-.full-page::before {
+.full-page::after {
     content: "";
     background-image: url("backgroundImage.jpg");
     background-size: cover;
