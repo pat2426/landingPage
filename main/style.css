@@ -374,13 +374,14 @@ img {
         margin-right: auto;
         margin-bottom: 4em;
     }
-    
+
     .sign-up-form {
-        padding: 1.5px;
+        padding: 2px;
     }
 
     .input-container input {
         width: 24rem;
+        padding-left: 2px;
     }
 
     .one{
