@@ -380,7 +380,7 @@ img {
 
     .input-container input {
         width: 24rem;
-        padding-left: 2px;
+        margin-left: 8px;
     }
 
     .one{
