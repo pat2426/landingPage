@@ -355,6 +355,7 @@ img {
     .text-title {
         font-size: 12px;
         width: 100%;
+        color: #000;
     }
 
     .holder-image{
