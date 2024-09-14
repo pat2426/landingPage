@@ -283,7 +283,7 @@ margin-left: 10%;
         z-index: -1;
         height: 80em;
     }
-    
+
     .nav-bar{
         padding: 1% 2% 2% 1.5%;
         word-spacing: 4.5em;
@@ -362,6 +362,10 @@ margin-left: 10%;
 
     .blog-footer-nav{
         font-size: 12px;
+    }
+
+    .section-row{
+        margin-right: 100em;
     }
 
     .footer-links{
