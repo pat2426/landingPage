@@ -269,6 +269,21 @@ margin-left: 10%;
 
 @media only screen and (max-width: 1024px) {
 
+    .full-page::before {
+        content: "";
+        background-image: url("backgroundImage.jpg");
+        background-color: #ccc;
+        background-blend-mode: darken, overlay;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        opacity: 0.7;
+        z-index: -1;
+        height: 80em;
+    }
+    
     .nav-bar{
         padding: 1% 2% 2% 1.5%;
         word-spacing: 4.5em;
