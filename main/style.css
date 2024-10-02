@@ -500,6 +500,7 @@ img {
     .footer-nav {
         display: flex;
         flex-direction: column;
+        margin-top: 2em;
         text-align: center;
         width: 100%;
     }
