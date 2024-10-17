@@ -109,7 +109,8 @@ margin-left: 10%;
 
 .section_one_para{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    float: left;
 }
 
 .div-two{
