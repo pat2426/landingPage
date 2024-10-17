@@ -1,4 +1,3 @@
-
 .full-page::after {
     content: "";
     background-image: url("backgroundImage.jpg");
@@ -106,6 +105,11 @@ margin-left: 10%;
     height: 5em;
     padding: 2px;
     border: 1px solid black;
+}
+
+.section_one_para{
+    display: flex;
+    flex-direction: row;
 }
 
 .div-two{
