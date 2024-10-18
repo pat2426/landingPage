@@ -33,6 +33,16 @@
     border: 1.5px solid #1f1d1d;
 }
 
+
+.blog_nav_list{
+    color: lime;
+    -webkit-transition: color 1s;
+    -moz-transition:    color 1s;
+    -ms-transition:     color 1s;
+    -o-transition:      color 1s;
+    transition:         color 1s;
+}
+
 .col-md-4{
     display: flex;
     flex-direction: column;
