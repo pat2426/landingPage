@@ -492,6 +492,10 @@ margin-left: 10%;
     display: inline-block;  
 }
 
+.blog_nav_list{
+    padding: 2px 2px 2px 2px;
+}
+
 .jumbotron{
     margin-top: -7em;
     height: 20em;
