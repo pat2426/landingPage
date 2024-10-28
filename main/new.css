@@ -312,6 +312,10 @@ margin-left: 10%;
         color: white;
     }
 
+    .main-logo{
+        border: 2px solid black;
+    }
+
     .div-text{
         margin-top: auto;
         color: white;
