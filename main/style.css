@@ -477,6 +477,10 @@ img {
         margin-top: 2em;
     }
 
+    .text-title{
+        margin: 0 auto;
+    }
+
     .holder-image{
         padding: 1.5em;
     }
