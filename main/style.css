@@ -471,6 +471,10 @@ img {
         text-align: center;
     }
 
+    h1.header{
+        color:#fff;
+    }
+
     .full-section{
         display: flex;
         flex-direction: column;
