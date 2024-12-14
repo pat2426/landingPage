@@ -1,4 +1,4 @@
-.full-page::after {
+.full-page::before {
     content: "";
     background-image: url("backgroundImage.jpg");
     background-size: cover;
@@ -9,8 +9,7 @@
     bottom: 0;
     right: 0;
     position: absolute;
-    height: 60em;
-    opacity: 0.75;
+    opacity: 0.80;
     z-index: -1;
 }
 
