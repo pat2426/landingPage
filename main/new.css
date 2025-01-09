@@ -69,12 +69,12 @@ margin-left: 10%;
 .main-div{
     display: flex;
     color: #1f1d1d;
-    margin-left: 5em;
+    margin-left: 1em;
     font-size: 20px;
 }
 
 .submain-div.one{
-    width: 20em;
+    width: 30em;
     margin-right: 50em;
     border: 1px solid black;
 }
