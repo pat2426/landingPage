@@ -76,6 +76,7 @@ margin-left: 10%;
 .submain-div.one{
     width: 30em;
     margin-right: 40em;
+    padding: 2px;
     border: 1px solid black;
 }
 
