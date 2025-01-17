@@ -270,6 +270,7 @@ nav a:hover {
     width: 20em;
     margin: 0 auto;
     padding: 4px;
+    border-radius: 2px;
 }
 
 .about-us-text{
