@@ -269,6 +269,7 @@ nav a:hover {
     opacity: 85%;
     width: 20em;
     margin: 0 auto;
+    padding: 4px;
 }
 
 .about-us-text{
