@@ -280,7 +280,7 @@ margin-left: 10%;
 
     .full-page::before {
         content: "";
-        background-image: url("backgroundImage.jpg");
+        background-image: url("images/backgroundImage.jpg");
         background-color: #ccc;
         background-blend-mode: darken, overlay;
         position: absolute;
