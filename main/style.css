@@ -8,7 +8,7 @@ body {
 
 .full-page::before {
     content: "";
-    background-image: url("backgroundImage.jpg");
+    background-image: url("images/backgroundImage.jpg");
     background-size: cover;
     background-color: #ccc;
     background-blend-mode: darken, overlay;
@@ -429,7 +429,7 @@ img {
 @media only screen and (max-width: 1024px) {
     .full-page::after {
         content: "";
-        background-image: url("backgroundImage.jpg");
+        background-image: url("images/backgroundImage.jpg");
         background-size: cover;
         background-color: #ccc;
         position: absolute;
