@@ -587,3 +587,6 @@ margin-left: 10%;
 }
 
 /*Blog Page*/
+.help_container{
+    display: flex;
+}
