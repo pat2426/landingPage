@@ -591,3 +591,8 @@ margin-left: 10%;
     display: flex;
     flex-direction: row;
 }
+
+.help_container_two{
+    display: flex;
+    flex-direction: row;
+}
