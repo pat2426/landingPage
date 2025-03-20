@@ -587,7 +587,7 @@ margin-left: 10%;
 }
 
 /*Blog Page*/
-.help_container{
+.help_container_one{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
