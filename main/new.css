@@ -590,6 +590,9 @@ margin-left: 10%;
 .help_container_one{
     display: flex;
     flex-direction: row;
+    background-color: #7c98aa;
+    opacity: 70%;
+    margin-right: 2px;;
 }
 
 .help_container_two{
