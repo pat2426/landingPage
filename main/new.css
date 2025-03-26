@@ -587,6 +587,11 @@ margin-left: 10%;
 }
 
 /*Blog Page*/
+.main_container{
+    background-color: #6cbaeb;
+    opacity: 70%;
+}
+
 .help_container_one{
     display: flex;
     flex-direction: row;
