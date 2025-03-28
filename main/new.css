@@ -611,6 +611,13 @@ margin-left: 10%;
     margin-right: 2px;
 }
 
+.help-section-one{
+    background-color: #f1f1f1;
+    border: 2px solid;
+    width: 30em;
+    margin-bottom: 4px;
+}
+
 .help_heading{
     text-decoration: underline;
 }
