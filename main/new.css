@@ -598,7 +598,6 @@ margin-left: 10%;
 .help_container_one{
     display: flex;
     flex-direction: row;
-    background-color: #7c98aa;
     opacity: 70%;
     margin-right: 2px;
 }
@@ -606,7 +605,6 @@ margin-left: 10%;
 .help_container_two{
     display: flex;
     flex-direction: row;
-    background-color: #7c98aa;
     opacity: 70%;
     margin-right: 2px;
 }
@@ -616,6 +614,14 @@ margin-left: 10%;
     border: 2px solid;
     width: 30em;
     margin-bottom: 4px;
+}
+
+.help-section-two{
+    background-color: #f1f1f1;
+    border: 2px solid;
+    width: 30em;
+    margin-bottom: 4px;
+    margin-left: 4px;
 }
 
 .help_heading{
