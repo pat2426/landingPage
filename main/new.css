@@ -596,6 +596,10 @@ margin-left: 10%;
     padding: 2px 2px 2px 2px;
 }
 
+.main_help_container{
+    align-items: center;
+}
+
 .help_container_one{
     display: flex;
     flex-direction: row;
