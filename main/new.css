@@ -656,6 +656,7 @@ input {
     font-size: 16px;
     margin-left:10em;
     margin-bottom: 2em;
+    border-radius: 4px;
 }
 
 .button:hover{
