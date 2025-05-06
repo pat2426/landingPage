@@ -663,3 +663,7 @@ input {
 .button:hover{
     background-color: #445e69;
 }
+
+input:focus::placeholder {
+    color: transparent;
+  }
