@@ -640,6 +640,7 @@ input {
     width: 20em;
     border-radius: 4px;
     height: 2em;
+    border-color: #c03e69;
 }
 
 .main_container_header{
