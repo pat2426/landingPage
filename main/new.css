@@ -641,6 +641,7 @@ input {
     border-radius: 4px;
     height: 2em;
     border-color: #c03e69;
+    margin-right: 10px;
 }
 
 .main_container_header{
