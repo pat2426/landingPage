@@ -670,3 +670,7 @@ input {
 input:focus::placeholder {
     color: transparent;
   }
+
+.fa-search{
+    width: 2em;
+}
