@@ -4,7 +4,6 @@ function mobileMenu() {
     toggle();
 }
 
-
 /*Toggle function*/
 function toggle() {
     var x = document.getElementById("menu-display");
@@ -15,11 +14,9 @@ function toggle() {
     }
 }
 
-
 /*form animation */
 function newAnimation(){
     var links = document.getElementsByClassName("footer-links");
-    
 }
 
 document.getElementById("menu-display").addEventListener("click", mobileMenu);
