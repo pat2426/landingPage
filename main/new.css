@@ -679,6 +679,6 @@ input:focus::placeholder {
     color: white;
     font-size: 17px;
     border: 1px solid grey;
-    border-left: none; /* Prevent double borders */
+    border-left: none;
     cursor: pointer;
 }
