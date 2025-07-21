@@ -148,6 +148,10 @@ margin-left: 10%;
     z-index: 1;
 }
 
+.section-one{
+    margin-right: 45%;
+}
+
 .one{
     flex: 1 auto;
     height:10em;
