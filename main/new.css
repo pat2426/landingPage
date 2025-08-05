@@ -691,3 +691,7 @@ input:focus::placeholder {
     border-left: none;
     cursor: pointer;
 }
+
+.fa-search:hover{
+    background: #5a7c97;
+}
