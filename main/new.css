@@ -607,7 +607,11 @@ margin-left: 10%;
 
 .main_help_container{
     align-items: center;
-    padding: 2em;
+    padding: 4em;
+}
+
+.help_container{
+    margin-bottom: 20px;
 }
 
 .help_container_one{
