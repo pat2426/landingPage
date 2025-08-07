@@ -682,8 +682,6 @@ input:focus::placeholder {
   }
 
 .fa-search{
-    float: left;
-    width: 100%;
     padding: 7.5px;
     background: #2196F3;
     color: white;
