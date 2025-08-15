@@ -687,7 +687,7 @@ input:focus::placeholder {
   }
 
 .fa-search{
-    padding: 7.5px;
+    padding: 8px;
     background: #2196F3;
     color: white;
     font-size: 17px;
