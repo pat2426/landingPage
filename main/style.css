@@ -96,6 +96,10 @@ nav a:hover {
     flex-direction: row;
 }
 
+.section-two{
+    margin-left: 4em;
+}
+
 .heading{
     font-family: 'Courier New', Courier, monospace;
     font-size: larger;
