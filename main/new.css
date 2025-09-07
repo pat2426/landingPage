@@ -698,3 +698,7 @@ input:focus::placeholder {
 .fa-search:hover{
     background: #5a7c97;
 }
+
+.help-footer{
+   margin-left: 50%;
+}
