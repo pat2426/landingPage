@@ -703,4 +703,5 @@ input:focus::placeholder {
    margin-left: 40%;
    font-size: 20px;
    font-weight: 400;
+   background-color: #5a7c97;
 }
