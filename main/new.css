@@ -706,4 +706,5 @@ input:focus::placeholder {
    font-weight: 400;
    background-color: #5a7c97;
    width: 100%;
+   height: 10em;
 }
