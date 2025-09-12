@@ -700,7 +700,6 @@ input:focus::placeholder {
 }
 
 .help-footer{
-   margin:0 auto;
    text-align: center;
    font-size: 20px;
    font-weight: bolder;
