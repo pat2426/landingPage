@@ -710,4 +710,5 @@ input:focus::placeholder {
 
 .help-footer > p{
     margin-top: -3em;
+    padding: 6% 6% 10px 10px;
 }
