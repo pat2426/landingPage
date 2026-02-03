@@ -705,6 +705,7 @@ input:focus::placeholder {
 .help-footer{
    display: flex;
    flex-direction: row;
+   border-right: 3px solid red;
    text-align: center;
    font-size: 20px;
    font-weight: bolder;
