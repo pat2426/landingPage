@@ -114,6 +114,11 @@ nav a:hover {
     margin-right: 4em;
 }
 
+.privacy-btn{
+    background-color: aqua;
+    border-radius: 4px;
+}
+
 .holder-image{
     height: 8em;
     width: 8em;
