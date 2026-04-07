@@ -1,3 +1,8 @@
+#menu-link,
+.mobile-menu,
+#menu-display {
+    display: none !important;
+}
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 html,
@@ -329,14 +334,28 @@ img {
 
 /*Media-queries for different screen sizes*/
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 1024px) {
     #middle-menu {
         display: none;
+    }
+
+    #menu-link,
+    .mobile-menu,
+    #menu-display {
+        display: inline-block;
     }
 
     #menu-display {
         display: inline;
         transition: .6s;
+        position: absolute;
+        top: 60px;
+        right: 20px;
+        z-index: 1000;
+        background: rgba(52, 26, 35, 0.95);
+        border-radius: 8px;
+        min-width: 150px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.2);
     }
 
     .full-section{
@@ -358,8 +377,9 @@ img {
     }
 
     .menu-display {
-        margin-left: 35%;
-        margin-top: 35%;
+        margin-left: 0;
+        margin-top: 0;
+        text-align: right;
     }
 
     .full-page::before {
