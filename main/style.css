@@ -1,7 +1,7 @@
 #menu-link,
 .mobile-menu,
 #menu-display {
-    display: none !important;
+    display: none;
 }
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
@@ -335,27 +335,14 @@ img {
 /*Media-queries for different screen sizes*/
 
 @media only screen and (max-width: 1024px) {
-    #middle-menu {
-        display: none;
+    #middle_menu {
+        display: inline-block;
     }
 
     #menu-link,
     .mobile-menu,
     #menu-display {
-        display: inline-block;
-    }
-
-    #menu-display {
-        display: inline;
-        transition: .6s;
-        position: absolute;
-        top: 60px;
-        right: 20px;
-        z-index: 1000;
-        background: rgba(52, 26, 35, 0.95);
-        border-radius: 8px;
-        min-width: 150px;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+        display: none;
     }
 
     .full-section{
@@ -368,7 +355,7 @@ img {
     }
 
     .mobile-menu {
-        display: inline-block;
+        display: none;
     }
 
     .main-logo {
@@ -581,4 +568,40 @@ img {
         font-weight: bold;
     }
 
+}
+
+@media only screen and (max-width: 768px) {
+    #middle_menu {
+        display: none;
+    }
+
+    .mobile-menu {
+        display: inline-block;
+    }
+
+    #menu-link {
+        display: inline-block;
+        cursor: pointer;
+    }
+
+    #menu-display {
+        display: none;
+        position: absolute;
+        top: 60px;
+        right: 20px;
+        z-index: 1000;
+        background: rgba(52, 26, 35, 0.95);
+        border-radius: 8px;
+        min-width: 180px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    #menu-display.is-open {
+        display: block;
+    }
+
+    #menu-display a {
+        display: block;
+        padding: 0.8em 1em;
+    }
 }
