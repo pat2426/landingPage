@@ -427,13 +427,14 @@ margin-left: 10%;
 .blog_title{
     text-align: center;
     font-size: 8em;
+    color: #1f1d1d;
     padding: 18px 14px 28px 14px;
     margin-bottom: 1em;
     margin-top: 1em;
 }
 
 .h2{
-    color: white;
+    color: #1f1d1d;
     text-decoration: underline;
     background-color: #a19d9d;
     width: 14em;
@@ -443,6 +444,7 @@ margin-left: 10%;
 
 .text{
     font-size: bold;
+    color: #000;
 }
 
 .section-row{
@@ -452,6 +454,7 @@ margin-left: 10%;
 .subtitle{
     margin-left: 45%;
     background-color: #7c98aa;
+    color: #1f1d1d;
     padding: 16px 16px;
     text-decoration: none;
     border-radius: 4px;
@@ -487,7 +490,7 @@ margin-left: 10%;
     font-size: 14px;
     font-weight: bolder;
     width: 100%;
-    color: white;
+    color: #1f1d1d;
     text-transform: uppercase;
     padding: 12px 10px 12px 10px;
     text-align: center;
@@ -542,7 +545,7 @@ margin-left: 10%;
     justify-content: center;
     padding: 14px 12px 14px 12px;
     font-weight: bold;
-    color:white;
+    color:#1f1d1d;
 }
 
 .blog-footer-links{
@@ -559,6 +562,7 @@ margin-left: 10%;
 
 .blog-footer-text{
     text-align: center;
+    color: #1f1d1d;
     padding: auto;
 }
 
