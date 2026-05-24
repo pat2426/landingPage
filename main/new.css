@@ -421,6 +421,26 @@ margin-left: 10%;
         margin: 0 auto;
         color: white;
     }
+
+    .full-div{
+        margin-left: 0;
+    }
+
+    .main-div{
+        margin-left: 0;
+    }
+
+    .div-two{
+        float: none;
+        margin-right: 0;
+        margin-top: 1em;
+    }
+
+    .div-three{
+        float: none;
+        margin-right: 0;
+        margin-top: 1em;
+    }
 }
 
 /*Blog*/
