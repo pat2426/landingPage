@@ -8,6 +8,12 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <style>
+        body.full-page {
+            min-height: 100dvh;
+            display: flex;
+            flex-direction: column;
+        }
+
         body.full-page::before {
             position: fixed;
             inset: 0;
@@ -16,6 +22,29 @@
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
+        }
+
+        .section-row {
+            width: min(900px, 92vw);
+            margin-left: auto;
+            margin-right: auto;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .section-row:first-of-type {
+            margin-top: auto;
+        }
+
+        .section-row:last-of-type {
+            margin-bottom: auto;
+        }
+
+        .section_one_para,
+        .section_two_para {
+            width: min(680px, 100%);
+            margin-left: 0;
+            margin-right: 0;
         }
     </style>
     <title>Terms Of Service</title>
